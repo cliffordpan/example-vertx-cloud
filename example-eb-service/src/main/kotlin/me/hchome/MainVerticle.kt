@@ -30,7 +30,7 @@ class MainVerticle : CoroutineVerticle() {
                 HelloService.SERVICE_ADDRESS, HelloService::class.java, JsonObject())
         records[awaitResult { discovery.publish(record, it) }] = ServiceBinder(vertx)
                 .setAddress(HelloService.SERVICE_ADDRESS)
-                .register(HelloService::class.java, HelloServiceImpl())
+                .register(HelloService::class.java, HelloServiceImpl(vertx))
     }
 
 
