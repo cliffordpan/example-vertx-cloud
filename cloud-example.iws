@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="731198e8-75a8-4ac8-b66a-74d323da11de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="731198e8-75a8-4ac8-b66a-74d323da11de" name="Default" comment="final">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-example.iws" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-example.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example-service-lib/example-service-lib_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/example-service-lib/example-service-lib_main.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -50,6 +49,7 @@
           <entry key="java" value="1225" />
           <entry key="kt" value="2006" />
           <entry key="kts" value="1783" />
+          <entry key="txt" value="6" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -60,7 +60,7 @@
           <entry key="IDEA_WORKSPACE" value="26" />
           <entry key="JAVA" value="1225" />
           <entry key="Kotlin" value="3789" />
-          <entry key="PLAIN_TEXT" value="34" />
+          <entry key="PLAIN_TEXT" value="40" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -174,8 +174,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="554">
+              <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -1297,7 +1297,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="D:/Android/SDK" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535701727119" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535701874752" />
     <property name="last_opened_file_path" value="D:/kff" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -1355,6 +1355,21 @@
       <option name="presentableId" value="Default" />
       <updated>1535179493896</updated>
     </task>
+    <task id="LOCAL-00001" summary="final">
+      <created>1535701743629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535701743629</updated>
+    </task>
+    <task id="LOCAL-00002" summary="final">
+      <created>1535701760033</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535701760033</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1401,6 +1416,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$USER_HOME$/.gradle/caches/4.9/generated-gradle-jars/gradle-kotlin-dsl-extensions-0.18.4-4.9.jar!/org/gradle/kotlin/dsl/BuiltinPluginIdExtensions.kt">
@@ -1609,8 +1628,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        <state relative-caret-position="554">
+          <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
         </state>
       </provider>
     </entry>
