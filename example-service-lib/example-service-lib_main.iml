@@ -28,10 +28,10 @@
     <output url="file://$MODULE_DIR$/out/production/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/build/generated/source/kapt/main">
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/kapt/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/kapt/main" isTestSource="false" generated="true" />
     </content>
     <content url="file://$MODULE_DIR$/build/generated/source/kaptKotlin/main">
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/kaptKotlin/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/kaptKotlin/main" isTestSource="false" generated="true" />
     </content>
     <content url="file://$MODULE_DIR$/src/main">
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
