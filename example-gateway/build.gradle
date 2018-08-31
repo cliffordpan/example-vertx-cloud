@@ -1,0 +1,9 @@
+dependencies {
+    compile "io.vertx:vertx-web:3.5.3"
+}
+
+jar {
+    manifest {
+        attributes "Main-Verticle": 'me.hchome.GateWayVerticle'
+    }
+}

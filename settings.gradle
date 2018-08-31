@@ -1,0 +1,2 @@
+include 'example-service-lib', 'example-eb-service', 'example-gateway'
+rootProject.name = 'cloud-example'

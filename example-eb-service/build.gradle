@@ -1,0 +1,6 @@
+jar {
+    manifest{
+        attributes "Main-Verticle": "me.hchome.MainVerticle"
+    }
+
+}
